@@ -6,5 +6,6 @@ class HelloWorld
    { 
       System.out.println("Hello I am Calculator");
       System.out.println("Hello I am Shripad Calculator");
+      System.out.println("Calculator");
    }
 }
